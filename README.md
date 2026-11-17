@@ -296,13 +296,7 @@
 
 <!-- ========================================================= -->
 <!-- 10. THANKS FOR VISITING MY PROFILE                         -->
-<h2 align="center">Thanks for visiting my profile!</h2>
-<!-- Add your original 880 x 270 Thank You banner URL in src, then uncomment. -->
-<!-- <img src="" alt="Thanks for visiting my profile banner" width="880" height="270"> -->
-
-<p align="center">If you find my work useful, consider leaving a ⭐ on the repositories you like. Your support means a lot!</p>
-
-<p align="center"><small>DESIGNED <strong>MD FAHIM MIA</strong> · PERSONAL DEVELOPER PROFILE · RANGPUR, BANGLADESH</small></p>
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFJ-aKoAlFQ7DiQh-z4F9O2kQE9REPc2tpLaXo4JyDu_zNDlB2aiJfG_KDnNf6iQ9F8I-rrty1LYk8Z1R5QDtCRAtBNZ9VTWAWRTsBVEfZrdXGbCqROx-S1fSBIzc06HKfrvFsgriTP4UEAFT154_TbzZd_wTVeXJPQVcJLAZ0WvRzzVaoHKouFymmwOU/s1600/Gemini_Generated_Image_1tshea1tshea1tsh.jpg" alt="Thanks for visiting my profile banner" width="880" height="270">
 
 <hr>
 
