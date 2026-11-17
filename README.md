@@ -1,30 +1,7 @@
-<!--
-MD FAHIM MIA — GITHUB PROFILE README
-HTML ONLY: no CSS, no JavaScript, no Markdown layout syntax.
-Keep this README.md in your username-matched public GitHub repository.
-Upload the accompanying assets/ folder beside this README.md.
-
-IMAGE LINKUP GUIDE:
-Every personal image slot below is an HTML comment containing src="".
-When you are ready, paste your image URL inside src="" and remove the surrounding comment markers.
-Because the image tags are commented out, no empty image box or blank space is rendered.
-
-MAXIMUM CONTENT WIDTH: 890px
-TABLE LAYOUT: Each two-column directory table uses 570px + 300px cell widths (870px total); this is applied to TH and TD cells because a table width attribute alone may not expand its content in GitHub rendering.
-PROFILE BANNER: 890 x 280px
-FIND ME ONLINE: maximum 890px width; height follows its eight rows automatically.
--->
-
-<!-- ========================================================= -->
-<!-- 01. PROFILE BANNER — 890 x 280px                          -->
-<!-- Add your banner URL to src, then uncomment this image.    -->
-<!-- <img src="" alt="MD FAHIM MIA - Profile Banner" width="890" height="280"> -->
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYi7yj7eUEDjzcamPmV_nfcA0VBuQ7Fd8lHpV1OiBoTLhAwyfrroJVOo7V4uAQ1y09JsFF6mEy9-6Czt-mSMtAziV2fwr6wmBqoNpgkgFPlzh9T77ecsTXL6BOY_1H14lkWeIf1pQZMWYLMryg7_u1ZzLRO0AYG0eCFRltREBcfAdyjUdsOkZpYUeEPGM/s1600/profile%20banner%20png.png" alt="MD FAHIM MIA - Profile Banner" width="890" height="280">
 
 <hr>
-
-<!-- ========================================================= -->
-<!-- 02. ABOUT ME                                               -->
-<h2 align="center">👋 About Me</h2>
+<h1 align="center">👋 About Me</h1>
 
 <p>Hi! I'm <strong>MD FAHIM MIA</strong>, a Computer Science and Technology (CST) student at Rangpur Ideal Institute of Technology (RIIT), Rangpur, Bangladesh.</p>
 
