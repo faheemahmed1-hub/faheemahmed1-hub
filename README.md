@@ -24,38 +24,38 @@
 <!-- 03. PROBLEM PRACTICE PLATFORMS                             -->
 <h2 align="center">💻 Problem Practice Platforms</h2>
 
-<table width="890" border="1" cellpadding="9" cellspacing="0" align="center">
+<table width="890" border="1" cellpadding="10" cellspacing="0" align="center">
   <colgroup>
-  <col width="445">
-  <col width="445">
-</colgroup>
+    <col width="445">
+    <col width="445">
+  </colgroup>
   <thead>
     <tr>
-      <th width="50%" align="left">Platform</th>
-      <th width="50%" align="center">Profile Link</th>
+      <th align="left">Platform</th>
+      <th align="center">Profile Link</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td width="50%">
+      <td>
         <img src="assets/leetcode-logo.png" alt="LeetCode logo" width="28" height="28" align="absmiddle">
         &nbsp;&nbsp;<strong>LeetCode</strong>
       </td>
-      <td width="50%" align="center"><a href="https://leetcode.com/u/faheemcodexpy/">View Profile</a></td>
+      <td align="center"><a href="https://leetcode.com/u/faheemcodexpy/">View Profile</a></td>
     </tr>
     <tr>
-      <td width="50%">
+      <td>
         <img src="assets/codeforces-logo.png" alt="Codeforces logo" width="28" height="28" align="absmiddle">
         &nbsp;&nbsp;<strong>Codeforces</strong>
       </td>
-      <td width="50%" align="center"><a href="https://codeforces.com/profile/faheemcodexpy">View Profile</a></td>
+      <td align="center"><a href="https://codeforces.com/profile/faheemcodexpy">View Profile</a></td>
     </tr>
     <tr>
-      <td width="50%">
+      <td>
         <img src="assets/codechef-logo.png" alt="CodeChef logo" width="28" height="28" align="absmiddle">
         &nbsp;&nbsp;<strong>CodeChef</strong>
       </td>
-      <td width="50%" align="center"><a href="https://www.codechef.com/users/faheemcodexpy">View Profile</a></td>
+      <td align="center"><a href="https://www.codechef.com/users/faheemcodexpy">View Profile</a></td>
     </tr>
   </tbody>
 </table>
@@ -67,62 +67,66 @@
 <h2 align="center">🌐 Find Me Online</h2>
 
 <table width="890" border="1" cellpadding="9" cellspacing="0" align="center">
+  <colgroup>
+    <col width="445">
+    <col width="445">
+  </colgroup>
   <thead>
     <tr>
-      <th width="50%" align="left">Where</th>
-      <th width="50%" align="center">Link</th>
+      <th align="left">Where</th>
+      <th align="center">Link</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td width="50%">
+      <td>
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn logo" height="24" align="absmiddle">
       </td>
-      <td width="50%" align="center"><a href="https://www.linkedin.com/mdfahim1miae1">Visit Profile</a></td>
+      <td align="center"><a href="https://www.linkedin.com/mdfahim1miae1">Visit Profile</a></td>
     </tr>
     <tr>
-      <td width="50%">
+      <td>
         <img src="assets/portfolio-icon.svg" alt="Portfolio icon" width="24" height="24" align="absmiddle">
         &nbsp;&nbsp;<strong>Portfolio</strong>
       </td>
-      <td width="50%" align="center"><a href="https://www.fahimportfolio.com">Visit Website</a></td>
+      <td align="center"><a href="https://www.fahimportfolio.com">Visit Website</a></td>
     </tr>
     <tr>
-      <td width="50%">
+      <td>
         <img src="https://img.shields.io/badge/Facebook-0866FF?style=flat&amp;logo=facebook&amp;logoColor=white" alt="Facebook logo" height="24" align="absmiddle">
       </td>
-      <td width="50%" align="center"><a href="https://www.facebook.com/mdfahim1mia">Visit Profile</a></td>
+      <td align="center"><a href="https://www.facebook.com/mdfahim1mia">Visit Profile</a></td>
     </tr>
     <tr>
-      <td width="50%">
+      <td>
         <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&amp;logo=kaggle&amp;logoColor=white" alt="Kaggle logo" height="24" align="absmiddle">
       </td>
-      <td width="50%" align="center"><a href="https://www.kaggle.com/">Visit Profile</a></td>
+      <td align="center"><a href="https://www.kaggle.com/">Visit Profile</a></td>
     </tr>
     <tr>
-      <td width="50%">
+      <td>
         <img src="https://img.shields.io/badge/TikTok-111111?style=flat&amp;logo=tiktok&amp;logoColor=white" alt="TikTok logo" height="24" align="absmiddle">
       </td>
-      <td width="50%" align="center"><a href="https://www.tiktok.com/@fahim_ahmed_codex?_r=1&amp;_t=ZS-9BOzzfkbv7J">Visit Profile</a></td>
+      <td align="center"><a href="https://www.tiktok.com/@fahim_ahmed_codex?_r=1&amp;_t=ZS-9BOzzfkbv7J">Visit Profile</a></td>
     </tr>
     <tr>
-      <td width="50%">
+      <td>
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&amp;logo=instagram&amp;logoColor=white" alt="Instagram logo" height="24" align="absmiddle">
       </td>
-      <td width="50%" align="center"><a href="https://www.instagram.com/">Visit Profile</a></td>
+      <td align="center"><a href="https://www.instagram.com/">Visit Profile</a></td>
     </tr>
     <tr>
-      <td width="50%">
+      <td>
         <img src="https://img.shields.io/badge/Twitter%20%2F%20X-000000?style=flat&amp;logo=x&amp;logoColor=white" alt="Twitter / X logo" height="24" align="absmiddle">
       </td>
-      <td width="50%" align="center"><a href="https://www.twitter.com/">Visit Profile</a></td>
+      <td align="center"><a href="https://www.twitter.com/">Visit Profile</a></td>
     </tr>
     <tr>
-      <td width="50%">
+      <td>
         <img src="assets/email-icon.svg" alt="Email icon" width="24" height="24" align="absmiddle">
         &nbsp;&nbsp;<strong>Email</strong>
       </td>
-      <td width="50%" align="center"><a href="mailto:mdferdushlebu@gmail.com">Send Email</a></td>
+      <td align="center"><a href="mailto:mdferdushlebu@gmail.com">Send Email</a></td>
     </tr>
   </tbody>
 </table>
