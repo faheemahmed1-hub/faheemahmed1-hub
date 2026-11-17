@@ -204,123 +204,60 @@
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-v807-mV8grPVp3S36MG4VN9Jg7eEmrJ266CwbIOxYQ9wDl_5lGGMPeu7vehRz9LTsl0-m_3OpVAYxyG5O4dwHM3A9KYe5oSzZ_FoWximbKWg6Q91ZUwx_-YhhWjiPBGONtWwyBNGcg7HSmnxUeOSGYYv-9gbowedXOvqh9gxthET0S0E3tPQNiRjMH4/s1600/Gemini_Generated_Image_d5lgozd5lgozd5lg%20%281%29.jpg" alt="Python AI/ML and C++ Competitive Programming Learning Roadmap" width="845" height="485">
 
 
-<table width="100%" border="1" cellpadding="14" cellspacing="0">
-  <thead>
-    <tr>
-      <th width="50%" align="center">
-        🐍 PYTHON → AI / ML ENGINEER
-      </th>
-      <th width="50%" align="center">
-        ⚡ C++ → COMPETITIVE PROGRAMMER
-      </th>
-    </tr>
-  </thead>
+<table width="100%" border="1" cellpadding="10" cellspacing="0">
   <tbody>
     <tr>
-      <td width="50%" valign="top">
-
-        <h3>🐍 Python Core</h3>
+      <th width="430" align="center">PYTHON → AI / ML ENGINEER</th>
+      <th width="430" align="center">C++ → COMPETITIVE PROGRAMMER</th>
+    </tr>
+    <tr>
+      <td width="430" valign="top">
+        <h3>Python Core</h3>
         <ul>
           <li>Syntax &amp; OOP</li>
           <li>Functions</li>
-          <li>Modules &amp; Fundamentals</li>
-          <li>Exception Handling</li>
+          <li>Modules and Python fundamentals, etc.</li>
         </ul>
-
-        <hr>
-
-        <h3>📊 Data &amp; Mathematics</h3>
+        <h3>Data &amp; Math</h3>
         <ul>
           <li>NumPy &amp; Pandas</li>
-          <li>Statistics &amp; Probability</li>
-          <li>Linear Algebra</li>
-          <li>Data Analysis</li>
+          <li>Statistics</li>
+          <li>Data Analysis, etc.</li>
         </ul>
-
-        <hr>
-
-        <h3>🤖 AI / Machine Learning</h3>
+        <h3>AI / ML</h3>
         <ul>
           <li>Machine Learning</li>
           <li>Deep Learning</li>
-          <li>PyTorch &amp; TensorFlow</li>
-          <li>Neural Networks</li>
+          <li>PyTorch &amp; TensorFlow, etc.</li>
         </ul>
-
-        <hr>
-
-        <h3>⚙️ ML Workflow</h3>
-        <p align="center">
-          Data → Training → Models<br>
-          Evaluation → Optimization → Deployment
-        </p>
-
-        <hr>
-
-        <p align="center">
-          <strong>🎯 AI / ML ENGINEER</strong>
-          <br><br>
-          Generative AI · Real-World Projects
-          <br>
-          Model Deployment · AI Applications
-        </p>
-
+        <p><strong>ML Workflow:</strong> Data → Models → Model Evaluation, etc.</p>
+        <p align="center"><strong>🎯 AI / ML ENGINEER</strong><br>Generative AI · Real-World Projects · Deployment, etc.</p>
       </td>
-
-      <td width="50%" valign="top">
-
-        <h3>⚡ C++ Core</h3>
+      <td width="430" valign="top">
+        <h3>C++ Core</h3>
         <ul>
-          <li>Syntax &amp; OOP</li>
-          <li>C++ STL</li>
-          <li>Time &amp; Space Complexity</li>
-          <li>Memory Management</li>
+          <li>OOP &amp; C++ STL</li>
+          <li>Complexity</li>
+          <li>Memory Management, etc.</li>
         </ul>
-
-        <hr>
-
-        <h3>🧮 Algorithms</h3>
+        <h3>Algorithms</h3>
         <ul>
           <li>Sorting &amp; Searching</li>
           <li>Greedy Algorithms</li>
-          <li>Binary Search</li>
-          <li>Graph Algorithms</li>
+          <li>Graph Algorithms, etc.</li>
         </ul>
-
-        <hr>
-
-        <h3>🌳 Advanced DSA</h3>
+        <h3>Advanced DSA</h3>
         <ul>
           <li>Trees &amp; Graphs</li>
           <li>Dynamic Programming</li>
-          <li>Backtracking</li>
-          <li>Advanced Data Structures</li>
+          <li>Backtracking, etc.</li>
         </ul>
-
-        <hr>
-
-        <h3>🏆 CP Problem Solving</h3>
-        <p align="center">
-          Logical Thinking → Efficiency
-          <br>
-          Contest Skills → Upsolving
-        </p>
-
-        <hr>
-
-        <p align="center">
-          <strong>🏆 COMPETITIVE PROGRAMMER</strong>
-          <br><br>
-          Codeforces · CodeChef · LeetCode
-          <br>
-          Contests · Problem Solving · Upsolving
-        </p>
-
+        <p><strong>CP Problem Solving:</strong> Logical Thinking · Efficiency · Contest Skills, etc.</p>
+        <p align="center"><strong>🏆 COMPETITIVE PROGRAMMER</strong><br>Codeforces · Contests · Upsolving, etc.</p>
       </td>
     </tr>
   </tbody>
 </table>
-
 
 <hr>
 
