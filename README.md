@@ -25,14 +25,14 @@
 
 <h2 align="center">💻 Problem Practice Platforms</h2>
 
-<table width="100%" border="1" cellpadding="10" cellspacing="0" align="center">
+<table width="90%" border="1" cellpadding="10" cellspacing="0" align="center">
   <thead>
     <tr>
       <th width="50%" align="left">
-        Platform<img src="assets/table-spacer.png" width="420" height="1" alt="">
+        Platform<img src="assets/table-spacer.png" width="350" height="1" alt="">
       </th>
       <th width="50%" align="center">
-        Profile Link<img src="assets/table-spacer.png" width="420" height="1" alt="">
+        Profile Link<img src="assets/table-spacer.png" width="350" height="1" alt="">
       </th>
     </tr>
   </thead>
@@ -74,14 +74,14 @@
 
 <h2 align="center">🌐 Find Me Online</h2>
 
-<table width="100%" border="1" cellpadding="9" cellspacing="0" align="center">
+<table width="90%" border="1" cellpadding="9" cellspacing="0" align="center">
   <thead>
     <tr>
       <th width="50%" align="left">
-        Where<img src="assets/table-spacer.png" width="420" height="1" alt="">
+        Where<img src="assets/table-spacer.png" width="350" height="1" alt="">
       </th>
       <th width="50%" align="center">
-        Link<img src="assets/table-spacer.png" width="420" height="1" alt="">
+        Link<img src="assets/table-spacer.png" width="350" height="1" alt="">
       </th>
     </tr>
   </thead>
