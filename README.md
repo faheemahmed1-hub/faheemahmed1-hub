@@ -146,8 +146,7 @@
 <p>I also work on Graphs, Trees, and Dynamic Programming to strengthen my algorithmic thinking and problem-solving abilities. Through regular contest participation and upsolving, I aim to improve my coding efficiency, accuracy, and ability to approach unfamiliar problems logically.</p>
 
 <h3 align="center">Codeforces Activity Statistics</h3>
-<!-- Add your original Codeforces activity screenshot URL in src, then uncomment. -->
-<!-- <img src="" alt="Original Codeforces Activity Statistics" width="890"> -->
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqJJCJXHRaVCPxDxd1JRdPwr3ALg8o6BUnvnaftB_PIpvLcHlo2dWN64J4Oe0TgdYv2Evp_R_voJ-AZYpYN5_FJ3d_MTxdxefmEImC3TeYZqT_yS_MRnrCQ0O-kAJB4ys7-7hXV_C_ydkgyYKjGjap6GE2jwZSNI7lYROwv0tyZ6uRcXr2BJwckXg0SUU/s1600/Gemini_Generated_Image_pyro9ypyro9ypyro.jpg" alt="Original Codeforces Activity Statistics" width="890">
 
 <hr>
 
@@ -202,8 +201,7 @@
 <!-- ========================================================= -->
 <!-- 08. MY LEARNING ROADMAP                                    -->
 <h2 align="center">🚀 My Learning Roadmap</h2>
-<!-- Add your original 850 x 550 roadmap image URL in src, then uncomment. -->
-<!-- <img src="" alt="Python AI/ML and C++ Competitive Programming Learning Roadmap" width="850" height="550"> -->
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghyGMuPlaZzayAaDhbRZzRHyCpyoQnro-Y3HQVDDy9v-r89wAJE6ZSH1DKK5HnO_pqwgqzOYO04cXNVicWVjUIXQspw-ZIa4RP9YIHH5rbhIvXXXqdWl0F2qGjzcpGgFBlgLT9zCXFy1YFChWkcocDcvu2NH441nZZuKrw80L9N39R-MvbyEOoAM0xzvk/s1600/Gemini_Generated_Image_d5lgozd5lgozd5lg.jpg" alt="Python AI/ML and C++ Competitive Programming Learning Roadmap" width="850" height="550">
 
 <table width="100%" border="1" cellpadding="10" cellspacing="0">
   <tbody>
