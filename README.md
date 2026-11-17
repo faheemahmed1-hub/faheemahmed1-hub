@@ -141,7 +141,7 @@
 
 <!-- ========================================================= -->
 <!-- 06. CODEFORCES PROFILE VIEW                                -->
-<h2 align="center">Codeforces Profile View</h2>
+<h2 align="center"> <img src="assets/codeforces-logo.png" alt="Codeforces logo" width="28" height="28" align="absmiddle"> Codeforces Profile View</h2>
 <h3 align="center">What I Practice?</h3>
 
 <p>I practice a broad range of Competitive Programming topics on Codeforces, including Implementation, Mathematics, Greedy, Brute Force, Sorting, Binary Search, Two Pointers, Prefix Sums, Number Theory, and Bit Manipulation.</p>
