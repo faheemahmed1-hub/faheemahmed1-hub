@@ -296,7 +296,7 @@
 
 <!-- ========================================================= -->
 <!-- 10. THANKS FOR VISITING MY PROFILE                         -->
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFJ-aKoAlFQ7DiQh-z4F9O2kQE9REPc2tpLaXo4JyDu_zNDlB2aiJfG_KDnNf6iQ9F8I-rrty1LYk8Z1R5QDtCRAtBNZ9VTWAWRTsBVEfZrdXGbCqROx-S1fSBIzc06HKfrvFsgriTP4UEAFT154_TbzZd_wTVeXJPQVcJLAZ0WvRzzVaoHKouFymmwOU/s1600/Gemini_Generated_Image_1tshea1tshea1tsh.jpg" alt="Thanks for visiting my profile banner" width="880" height="270">
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFJ-aKoAlFQ7DiQh-z4F9O2kQE9REPc2tpLaXo4JyDu_zNDlB2aiJfG_KDnNf6iQ9F8I-rrty1LYk8Z1R5QDtCRAtBNZ9VTWAWRTsBVEfZrdXGbCqROx-S1fSBIzc06HKfrvFsgriTP4UEAFT154_TbzZd_wTVeXJPQVcJLAZ0WvRzzVaoHKouFymmwOU/s1600/Gemini_Generated_Image_1tshea1tshea1tsh.jpg" alt="Thanks for visiting my profile banner" width="845" height="200">
 
 <hr>
 
