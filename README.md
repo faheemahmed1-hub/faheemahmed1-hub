@@ -127,7 +127,7 @@
 
 <!-- ========================================================= -->
 <!-- 05. LEETCODE PROFILE VIEW                                  -->
-<h2 align="center">LeetCode Profile View</h2>
+<h2 align="center"> <img src="assets/leetcode-logo.png" alt="LeetCode logo" width="28" height="28" align="absmiddle"> LeetCode Profile View</h2>
 <h3 align="center">What I Practice?</h3>
 
 <p align="center">I practice core Data Structures &amp; Algorithms topics, including Arrays &amp; Strings, Hashing, Two Pointers, Sliding Window, Sorting &amp; Searching, and Binary Search.</p>
