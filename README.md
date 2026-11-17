@@ -297,24 +297,24 @@
 <table width="100%" border="1" cellpadding="12" cellspacing="6">
   <tbody>
     <tr>
-      <td width="286" align="center"><img src="https://img.shields.io/badge/C-00599C?style=flat&amp;logo=c&amp;logoColor=white" alt="C logo" height="24"><br><strong>C</strong></td>
-      <td width="286" align="center"><img src="https://img.shields.io/badge/C++-00599C?style=flat&amp;logo=cplusplus&amp;logoColor=white" alt="C++ logo" height="24"><br><strong>C++</strong></td>
-      <td width="286" align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&amp;logo=python&amp;logoColor=white" alt="Python logo" height="24"><br><strong>Python</strong></td>
+      <td width="286" align="center"><img src="https://img.shields.io/badge/C-00599C?style=flat&amp;logo=c&amp;logoColor=white" alt="C logo" height="24"><br><strong></strong></td>
+      <td width="286" align="center"><img src="https://img.shields.io/badge/C++-00599C?style=flat&amp;logo=cplusplus&amp;logoColor=white" alt="C++ logo" height="24"><br><strong></strong></td>
+      <td width="286" align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&amp;logo=python&amp;logoColor=white" alt="Python logo" height="24"><br><strong></strong></td>
     </tr>
     <tr>
-      <td width="286" align="center"><img src="https://img.shields.io/badge/Java-ED8B00?style=flat&amp;logo=openjdk&amp;logoColor=white" alt="Java logo" height="24"><br><strong>Java</strong></td>
-      <td width="286" align="center"><img src="https://img.shields.io/badge/SQL-4479A1?style=flat&amp;logo=mysql&amp;logoColor=white" alt="SQL logo" height="24"><br><strong>SQL</strong></td>
-      <td width="286" align="center"><img src="https://img.shields.io/badge/PHP-777BB4?style=flat&amp;logo=php&amp;logoColor=white" alt="PHP logo" height="24"><br><strong>PHP</strong></td>
+      <td width="286" align="center"><img src="https://img.shields.io/badge/Java-ED8B00?style=flat&amp;logo=openjdk&amp;logoColor=white" alt="Java logo" height="24"><br><strong></strong></td>
+      <td width="286" align="center"><img src="https://img.shields.io/badge/SQL-4479A1?style=flat&amp;logo=mysql&amp;logoColor=white" alt="SQL logo" height="24"><br><strong></strong></td>
+      <td width="286" align="center"><img src="https://img.shields.io/badge/PHP-777BB4?style=flat&amp;logo=php&amp;logoColor=white" alt="PHP logo" height="24"><br><strong></strong></td>
     </tr>
     <tr>
-      <td width="286" align="center"><img src="https://img.shields.io/badge/HTML-E34F26?style=flat&amp;logo=html5&amp;logoColor=white" alt="HTML5 logo" height="24"><br><strong>HTML</strong></td>
-      <td width="286" align="center"><img src="https://img.shields.io/badge/CSS-1572B6?style=flat&amp;logo=css3&amp;logoColor=white" alt="CSS3 logo" height="24"><br><strong>CSS</strong></td>
-      <td width="286" align="center"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&amp;logo=javascript&amp;logoColor=black" alt="JavaScript logo" height="24"><br><strong>JavaScript</strong></td>
+      <td width="286" align="center"><img src="https://img.shields.io/badge/HTML-E34F26?style=flat&amp;logo=html5&amp;logoColor=white" alt="HTML5 logo" height="24"><br><strong></strong></td>
+      <td width="286" align="center"><img src="https://img.shields.io/badge/CSS-1572B6?style=flat&amp;logo=css3&amp;logoColor=white" alt="CSS3 logo" height="24"><br><strong></strong></td>
+      <td width="286" align="center"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&amp;logo=javascript&amp;logoColor=black" alt="JavaScript logo" height="24"><br><strong></strong></td>
     </tr>
     <tr>
-      <td width="286" align="center"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat&amp;logo=linux&amp;logoColor=black" alt="Linux logo" height="24"><br><strong>Linux</strong></td>
-      <td width="286" align="center"><img src="https://img.shields.io/badge/Git-F05032?style=flat&amp;logo=git&amp;logoColor=white" alt="Git logo" height="24"><br><strong>Git</strong></td>
-      <td width="286" align="center"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&amp;logo=pytorch&amp;logoColor=white" alt="PyTorch logo" height="24"><br><strong>PyTorch</strong></td>
+      <td width="286" align="center"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat&amp;logo=linux&amp;logoColor=black" alt="Linux logo" height="24"><br><strong></strong></td>
+      <td width="286" align="center"><img src="https://img.shields.io/badge/Git-F05032?style=flat&amp;logo=git&amp;logoColor=white" alt="Git logo" height="24"><br><strong></strong></td>
+      <td width="286" align="center"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&amp;logo=pytorch&amp;logoColor=white" alt="PyTorch logo" height="24"><br><strong></strong></td>
     </tr>
   </tbody>
 </table>
