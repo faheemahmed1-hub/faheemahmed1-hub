@@ -1,7 +1,7 @@
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYi7yj7eUEDjzcamPmV_nfcA0VBuQ7Fd8lHpV1OiBoTLhAwyfrroJVOo7V4uAQ1y09JsFF6mEy9-6Czt-mSMtAziV2fwr6wmBqoNpgkgFPlzh9T77ecsTXL6BOY_1H14lkWeIf1pQZMWYLMryg7_u1ZzLRO0AYG0eCFRltREBcfAdyjUdsOkZpYUeEPGM/s1600/profile%20banner%20png.png" alt="MD FAHIM MIA - Profile Banner" width="890" height="280">
 
 <hr>
-<h1 align="center"><strong>About Me</strong></h1>
+<h1 align="center"><b>About Me</b></h1>
 
 <p>Hi! I'm <strong>MD FAHIM MIA</strong>, a Computer Science and Technology (CST) student at Rangpur Ideal Institute of Technology (RIIT), Rangpur, Bangladesh.</p>
 
