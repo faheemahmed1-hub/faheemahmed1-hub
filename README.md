@@ -155,7 +155,7 @@
 
 <!-- ========================================================= -->
 <!-- 07. MY PROJECTS                                            -->
-<h2 align="center">My Projects &nbsp;&nbsp;&nbsp; <img src="assets/my-projects-icon.png" alt="My Projects icon" width="28" height="28" align="absmiddle"></h2> 
+<h2 align="center">My Projects &nbsp;&nbsp; <img src="assets/my-projects-icon.png" alt="My Projects icon" width="28" height="28" align="absmiddle"></h2> 
 <p align="center">A few things I've built while learning and exploring.</p>
 
 <table width="100%" border="1" cellpadding="12" cellspacing="8">
