@@ -201,7 +201,7 @@
 <!-- ========================================================= -->
 <!-- 08. MY LEARNING ROADMAP                                    -->
 <h2 align="center">🚀 My Learning Roadmap</h2>
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-v807-mV8grPVp3S36MG4VN9Jg7eEmrJ266CwbIOxYQ9wDl_5lGGMPeu7vehRz9LTsl0-m_3OpVAYxyG5O4dwHM3A9KYe5oSzZ_FoWximbKWg6Q91ZUwx_-YhhWjiPBGONtWwyBNGcg7HSmnxUeOSGYYv-9gbowedXOvqh9gxthET0S0E3tPQNiRjMH4/s1600/Gemini_Generated_Image_d5lgozd5lgozd5lg%20%281%29.jpg" alt="Python AI/ML and C++ Competitive Programming Learning Roadmap" width="850" height="550">
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-v807-mV8grPVp3S36MG4VN9Jg7eEmrJ266CwbIOxYQ9wDl_5lGGMPeu7vehRz9LTsl0-m_3OpVAYxyG5O4dwHM3A9KYe5oSzZ_FoWximbKWg6Q91ZUwx_-YhhWjiPBGONtWwyBNGcg7HSmnxUeOSGYYv-9gbowedXOvqh9gxthET0S0E3tPQNiRjMH4/s1600/Gemini_Generated_Image_d5lgozd5lgozd5lg%20%281%29.jpg" alt="Python AI/ML and C++ Competitive Programming Learning Roadmap" width="845" height="485">
 
 <table width="100%" border="1" cellpadding="10" cellspacing="0">
   <tbody>
