@@ -1,6 +1,30 @@
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYi7yj7eUEDjzcamPmV_nfcA0VBuQ7Fd8lHpV1OiBoTLhAwyfrroJVOo7V4uAQ1y09JsFF6mEy9-6Czt-mSMtAziV2fwr6wmBqoNpgkgFPlzh9T77ecsTXL6BOY_1H14lkWeIf1pQZMWYLMryg7_u1ZzLRO0AYG0eCFRltREBcfAdyjUdsOkZpYUeEPGM/s1600/profile%20banner%20png.png" alt="MD FAHIM MIA - Profile Banner" width="890" height="280"> -->
-<hr>                                             
-<h1 align="center">👋 About Me</h1>
+<!--
+MD FAHIM MIA — GITHUB PROFILE README
+HTML ONLY: no CSS, no JavaScript, no Markdown layout syntax.
+Keep this README.md in your username-matched public GitHub repository.
+Upload the accompanying assets/ folder beside this README.md.
+
+IMAGE LINKUP GUIDE:
+Every personal image slot below is an HTML comment containing src="".
+When you are ready, paste your image URL inside src="" and remove the surrounding comment markers.
+Because the image tags are commented out, no empty image box or blank space is rendered.
+
+MAXIMUM CONTENT WIDTH: 890px
+TABLE LAYOUT: Each two-column directory table uses 570px + 300px cell widths (870px total); this is applied to TH and TD cells because a table width attribute alone may not expand its content in GitHub rendering.
+PROFILE BANNER: 890 x 280px
+FIND ME ONLINE: maximum 890px width; height follows its eight rows automatically.
+-->
+
+<!-- ========================================================= -->
+<!-- 01. PROFILE BANNER — 890 x 280px                          -->
+<!-- Add your banner URL to src, then uncomment this image.    -->
+<!-- <img src="" alt="MD FAHIM MIA - Profile Banner" width="890" height="280"> -->
+
+<hr>
+
+<!-- ========================================================= -->
+<!-- 02. ABOUT ME                                               -->
+<h2 align="center">👋 About Me</h2>
 
 <p>Hi! I'm <strong>MD FAHIM MIA</strong>, a Computer Science and Technology (CST) student at Rangpur Ideal Institute of Technology (RIIT), Rangpur, Bangladesh.</p>
 
@@ -20,34 +44,34 @@
 <!-- 03. PROBLEM PRACTICE PLATFORMS                             -->
 <h2 align="center">💻 Problem Practice Platforms</h2>
 
-<table width="890" border="1" cellpadding="10" cellspacing="0" align="center">
+<table width="100%" border="1" cellpadding="10" cellspacing="0">
   <thead>
     <tr>
-      <th width="65%" align="left">Platform</th>
-      <th width="35%" align="center">Profile Link</th>
+      <th width="570" align="left">Platform</th>
+      <th width="300" align="center">Profile Link</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td width="65%">
+      <td width="570">
         <img src="assets/leetcode-logo.png" alt="LeetCode logo" width="28" height="28" align="absmiddle">
         &nbsp;&nbsp;<strong>LeetCode</strong>
       </td>
-      <td width="35%" align="center"><a href="https://leetcode.com/u/faheemcodexpy/">View Profile</a></td>
+      <td width="300" align="center"><a href="https://leetcode.com/u/faheemcodexpy/">View Profile</a></td>
     </tr>
     <tr>
-      <td width="65%">
+      <td width="570">
         <img src="assets/codeforces-logo.png" alt="Codeforces logo" width="28" height="28" align="absmiddle">
         &nbsp;&nbsp;<strong>Codeforces</strong>
       </td>
-      <td width="35%" align="center"><a href="https://codeforces.com/profile/faheemcodexpy">View Profile</a></td>
+      <td width="300" align="center"><a href="https://codeforces.com/profile/faheemcodexpy">View Profile</a></td>
     </tr>
     <tr>
-      <td width="65%">
+      <td width="570">
         <img src="assets/codechef-logo.png" alt="CodeChef logo" width="28" height="28" align="absmiddle">
         &nbsp;&nbsp;<strong>CodeChef</strong>
       </td>
-      <td width="35%" align="center"><a href="https://www.codechef.com/users/faheemcodexpy">View Profile</a></td>
+      <td width="300" align="center"><a href="https://www.codechef.com/users/faheemcodexpy">View Profile</a></td>
     </tr>
   </tbody>
 </table>
@@ -58,63 +82,63 @@
 <!-- 04. FIND ME ONLINE                                         -->
 <h2 align="center">🌐 Find Me Online</h2>
 
-<table width="890" border="1" cellpadding="9" cellspacing="0" align="center">
+<table width="100%" border="1" cellpadding="9" cellspacing="0">
   <thead>
     <tr>
-      <th width="65%" align="left">Where</th>
-      <th width="35%" align="center">Link</th>
+      <th width="570" align="left">Where</th>
+      <th width="300" align="center">Link</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td width="65%">
+      <td width="570">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn logo" height="24" align="absmiddle">
       </td>
-      <td width="35%" align="center"><a href="https://www.linkedin.com/mdfahim1miae1">Visit Profile</a></td>
+      <td width="300" align="center"><a href="https://www.linkedin.com/mdfahim1miae1">Visit Profile</a></td>
     </tr>
     <tr>
-      <td width="65%">
+      <td width="570">
         <img src="assets/portfolio-icon.svg" alt="Portfolio icon" width="24" height="24" align="absmiddle">
         &nbsp;&nbsp;<strong>Portfolio</strong>
       </td>
-      <td width="35%" align="center"><a href="https://www.fahimportfolio.com">Visit Website</a></td>
+      <td width="300" align="center"><a href="https://www.fahimportfolio.com">Visit Website</a></td>
     </tr>
     <tr>
-      <td width="65%">
+      <td width="570">
         <img src="https://img.shields.io/badge/Facebook-0866FF?style=flat&amp;logo=facebook&amp;logoColor=white" alt="Facebook logo" height="24" align="absmiddle">
       </td>
-      <td width="35%" align="center"><a href="https://www.facebook.com/mdfahim1mia">Visit Profile</a></td>
+      <td width="300" align="center"><a href="https://www.facebook.com/mdfahim1mia">Visit Profile</a></td>
     </tr>
     <tr>
-      <td width="65%">
+      <td width="570">
         <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&amp;logo=kaggle&amp;logoColor=white" alt="Kaggle logo" height="24" align="absmiddle">
       </td>
-      <td width="35%" align="center"><a href="https://www.kaggle.com/">Visit Profile</a></td>
+      <td width="300" align="center"><a href="https://www.kaggle.com/">Visit Profile</a></td>
     </tr>
     <tr>
-      <td width="65%">
+      <td width="570">
         <img src="https://img.shields.io/badge/TikTok-111111?style=flat&amp;logo=tiktok&amp;logoColor=white" alt="TikTok logo" height="24" align="absmiddle">
       </td>
-      <td width="35%" align="center"><a href="https://www.tiktok.com/@fahim_ahmed_codex?_r=1&amp;_t=ZS-9BOzzfkbv7J">Visit Profile</a></td>
+      <td width="300" align="center"><a href="https://www.tiktok.com/@fahim_ahmed_codex?_r=1&amp;_t=ZS-9BOzzfkbv7J">Visit Profile</a></td>
     </tr>
     <tr>
-      <td width="65%">
+      <td width="570">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&amp;logo=instagram&amp;logoColor=white" alt="Instagram logo" height="24" align="absmiddle">
       </td>
-      <td width="35%" align="center"><a href="https://www.instagram.com/">Visit Profile</a></td>
+      <td width="300" align="center"><a href="https://www.instagram.com/">Visit Profile</a></td>
     </tr>
     <tr>
-      <td width="65%">
+      <td width="570">
         <img src="https://img.shields.io/badge/Twitter%20%2F%20X-000000?style=flat&amp;logo=x&amp;logoColor=white" alt="Twitter / X logo" height="24" align="absmiddle">
       </td>
-      <td width="35%" align="center"><a href="https://www.twitter.com/">Visit Profile</a></td>
+      <td width="300" align="center"><a href="https://www.twitter.com/">Visit Profile</a></td>
     </tr>
     <tr>
-      <td width="65%">
+      <td width="570">
         <img src="assets/email-icon.svg" alt="Email icon" width="24" height="24" align="absmiddle">
         &nbsp;&nbsp;<strong>Email</strong>
       </td>
-      <td width="35%" align="center"><a href="mailto:mdferdushlebu@gmail.com">Send Email</a></td>
+      <td width="300" align="center"><a href="mailto:mdferdushlebu@gmail.com">Send Email</a></td>
     </tr>
   </tbody>
 </table>
@@ -131,7 +155,8 @@
 <p align="center">I also work on Linked Lists, Stacks &amp; Queues, Trees &amp; Graphs, Recursion &amp; Backtracking, Greedy Algorithms, and Dynamic Programming.</p>
 
 <h3 align="center">LeetCode Profile Statistics</h3>
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgceJARq0d1ZJp7Zn3DsnUh9kcuGsvuR6xjhwLPcaGjVlOQ9wrKjGyjiq8AEhC80Xkp1rWZN8joyYBeRmywg_zroQ6B4BtyruUoeosutwg6I2qI4EHpmx1flXgv9N8okAZlq9tMXxSI8fvHXlIT3ZuUCqXHh2yWqSRe3-jz_VNYENu5nXOMR-9QUFo69jA/s320/Dark%20UI%20Progress%20Dashboard.png" alt="Original LeetCode Profile Statistics" width="890">
+<!-- Add your original LeetCode statistics image URL in src, then uncomment. -->
+<!-- <img src="" alt="Original LeetCode Profile Statistics" width="890"> -->
 
 <hr>
 
@@ -155,10 +180,10 @@
 <h2 align="center">My Projects</h2>
 <p align="center">A few things I've built while learning and exploring.</p>
 
-<table width="890" border="1" cellpadding="12" cellspacing="8" align="center">
+<table width="100%" border="1" cellpadding="12" cellspacing="8">
   <tbody>
     <tr>
-      <td width="50%" valign="top">
+      <td width="430" valign="top">
         <h3>01 · Smart Expense Tracker</h3>
         <p><strong>Category:</strong> C++ Project</p>
         <p>A smart expense management application that helps users track daily expenses, organize spending categories, manage budgets, and generate expense summaries.</p>
@@ -166,7 +191,7 @@
         <p><strong>Difficulty:</strong> Beginner–Intermediate</p>
         <a href="YOUR_SMART_EXPENSE_TRACKER_REPOSITORY_URL"><img src="https://img.shields.io/badge/Repository-FFD84D?style=for-the-badge&amp;logo=github&amp;logoColor=black" alt="Repository"></a>
       </td>
-      <td width="50%" valign="top">
+      <td width="430" valign="top">
         <h3>02 · Space Dodger Game</h3>
         <p><strong>Category:</strong> Python Project</p>
         <p>An entertaining 2D space game where players control a spaceship, dodge incoming obstacles, collect points, and try to beat their highest score.</p>
@@ -176,7 +201,7 @@
       </td>
     </tr>
     <tr>
-      <td width="50%" valign="top">
+      <td width="430" valign="top">
         <h3>03 · Movie Review Sentiment Analyzer</h3>
         <p><strong>Category:</strong> AI &amp; Machine Learning</p>
         <p>A beginner-friendly machine learning application that analyzes movie reviews and predicts whether the sentiment is Positive or Negative.</p>
@@ -184,7 +209,7 @@
         <p><strong>Difficulty:</strong> Beginner</p>
         <a href="YOUR_MOVIE_SENTIMENT_ANALYZER_REPOSITORY_URL"><img src="https://img.shields.io/badge/Repository-FFD84D?style=for-the-badge&amp;logo=github&amp;logoColor=black" alt="Repository"></a>
       </td>
-      <td width="50%" valign="top">
+      <td width="430" valign="top">
         <h3>04 · Personal Study Planner</h3>
         <p><strong>Category:</strong> Web Development</p>
         <p>A simple study management application that allows users to organize daily tasks, set deadlines, track progress, and manage completed activities.</p>
@@ -204,14 +229,14 @@
 <!-- Add your original 850 x 550 roadmap image URL in src, then uncomment. -->
 <!-- <img src="" alt="Python AI/ML and C++ Competitive Programming Learning Roadmap" width="850" height="550"> -->
 
-<table width="890" border="1" cellpadding="10" cellspacing="0" align="center">
+<table width="100%" border="1" cellpadding="10" cellspacing="0">
   <tbody>
     <tr>
-      <th width="50%" align="center">PYTHON → AI / ML ENGINEER</th>
-      <th width="50%" align="center">C++ → COMPETITIVE PROGRAMMER</th>
+      <th width="430" align="center">PYTHON → AI / ML ENGINEER</th>
+      <th width="430" align="center">C++ → COMPETITIVE PROGRAMMER</th>
     </tr>
     <tr>
-      <td width="50%" valign="top">
+      <td width="430" valign="top">
         <h3>Python Core</h3>
         <ul>
           <li>Syntax &amp; OOP</li>
@@ -233,7 +258,7 @@
         <p><strong>ML Workflow:</strong> Data → Models → Model Evaluation, etc.</p>
         <p align="center"><strong>🎯 AI / ML ENGINEER</strong><br>Generative AI · Real-World Projects · Deployment, etc.</p>
       </td>
-      <td width="50%" valign="top">
+      <td width="430" valign="top">
         <h3>C++ Core</h3>
         <ul>
           <li>OOP &amp; C++ STL</li>
@@ -267,27 +292,27 @@
 <!-- Optional: add your exact Skills & Tools infographic URL here and uncomment. -->
 <!-- <img src="" alt="Skills and Tools reference graphic" width="890"> -->
 
-<table width="890" border="1" cellpadding="12" cellspacing="6" align="center">
+<table width="100%" border="1" cellpadding="12" cellspacing="6">
   <tbody>
     <tr>
-      <td width="33%" align="center"><img src="https://img.shields.io/badge/C-00599C?style=flat&amp;logo=c&amp;logoColor=white" alt="C logo" height="24"><br><strong>C</strong></td>
-      <td width="33%" align="center"><img src="https://img.shields.io/badge/C++-00599C?style=flat&amp;logo=cplusplus&amp;logoColor=white" alt="C++ logo" height="24"><br><strong>C++</strong></td>
-      <td width="33%" align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&amp;logo=python&amp;logoColor=white" alt="Python logo" height="24"><br><strong>Python</strong></td>
+      <td width="286" align="center"><img src="https://img.shields.io/badge/C-00599C?style=flat&amp;logo=c&amp;logoColor=white" alt="C logo" height="24"><br><strong>C</strong></td>
+      <td width="286" align="center"><img src="https://img.shields.io/badge/C++-00599C?style=flat&amp;logo=cplusplus&amp;logoColor=white" alt="C++ logo" height="24"><br><strong>C++</strong></td>
+      <td width="286" align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&amp;logo=python&amp;logoColor=white" alt="Python logo" height="24"><br><strong>Python</strong></td>
     </tr>
     <tr>
-      <td width="33%" align="center"><img src="https://img.shields.io/badge/Java-ED8B00?style=flat&amp;logo=openjdk&amp;logoColor=white" alt="Java logo" height="24"><br><strong>Java</strong></td>
-      <td width="33%" align="center"><img src="https://img.shields.io/badge/SQL-4479A1?style=flat&amp;logo=mysql&amp;logoColor=white" alt="SQL logo" height="24"><br><strong>SQL</strong></td>
-      <td width="33%" align="center"><img src="https://img.shields.io/badge/PHP-777BB4?style=flat&amp;logo=php&amp;logoColor=white" alt="PHP logo" height="24"><br><strong>PHP</strong></td>
+      <td width="286" align="center"><img src="https://img.shields.io/badge/Java-ED8B00?style=flat&amp;logo=openjdk&amp;logoColor=white" alt="Java logo" height="24"><br><strong>Java</strong></td>
+      <td width="286" align="center"><img src="https://img.shields.io/badge/SQL-4479A1?style=flat&amp;logo=mysql&amp;logoColor=white" alt="SQL logo" height="24"><br><strong>SQL</strong></td>
+      <td width="286" align="center"><img src="https://img.shields.io/badge/PHP-777BB4?style=flat&amp;logo=php&amp;logoColor=white" alt="PHP logo" height="24"><br><strong>PHP</strong></td>
     </tr>
     <tr>
-      <td width="33%" align="center"><img src="https://img.shields.io/badge/HTML-E34F26?style=flat&amp;logo=html5&amp;logoColor=white" alt="HTML5 logo" height="24"><br><strong>HTML</strong></td>
-      <td width="33%" align="center"><img src="https://img.shields.io/badge/CSS-1572B6?style=flat&amp;logo=css3&amp;logoColor=white" alt="CSS3 logo" height="24"><br><strong>CSS</strong></td>
-      <td width="33%" align="center"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&amp;logo=javascript&amp;logoColor=black" alt="JavaScript logo" height="24"><br><strong>JavaScript</strong></td>
+      <td width="286" align="center"><img src="https://img.shields.io/badge/HTML-E34F26?style=flat&amp;logo=html5&amp;logoColor=white" alt="HTML5 logo" height="24"><br><strong>HTML</strong></td>
+      <td width="286" align="center"><img src="https://img.shields.io/badge/CSS-1572B6?style=flat&amp;logo=css3&amp;logoColor=white" alt="CSS3 logo" height="24"><br><strong>CSS</strong></td>
+      <td width="286" align="center"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&amp;logo=javascript&amp;logoColor=black" alt="JavaScript logo" height="24"><br><strong>JavaScript</strong></td>
     </tr>
     <tr>
-      <td width="33%" align="center"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat&amp;logo=linux&amp;logoColor=black" alt="Linux logo" height="24"><br><strong>Linux</strong></td>
-      <td width="33%" align="center"><img src="https://img.shields.io/badge/Git-F05032?style=flat&amp;logo=git&amp;logoColor=white" alt="Git logo" height="24"><br><strong>Git</strong></td>
-      <td width="33%" align="center"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&amp;logo=pytorch&amp;logoColor=white" alt="PyTorch logo" height="24"><br><strong>PyTorch</strong></td>
+      <td width="286" align="center"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat&amp;logo=linux&amp;logoColor=black" alt="Linux logo" height="24"><br><strong>Linux</strong></td>
+      <td width="286" align="center"><img src="https://img.shields.io/badge/Git-F05032?style=flat&amp;logo=git&amp;logoColor=white" alt="Git logo" height="24"><br><strong>Git</strong></td>
+      <td width="286" align="center"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&amp;logo=pytorch&amp;logoColor=white" alt="PyTorch logo" height="24"><br><strong>PyTorch</strong></td>
     </tr>
   </tbody>
 </table>
