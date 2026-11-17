@@ -1,29 +1,6 @@
-<!--
-MD FAHIM MIA — GITHUB PROFILE README
-HTML ONLY: no CSS, no JavaScript, no Markdown layout syntax.
-Keep this README.md in your username-matched public GitHub repository.
-Upload the accompanying assets/ folder beside this README.md.
-
-IMAGE LINKUP GUIDE:
-Every personal image slot below is an HTML comment containing src="".
-When you are ready, paste your image URL inside src="" and remove the surrounding comment markers.
-Because the image tags are commented out, no empty image box or blank space is rendered.
-
-MAXIMUM CONTENT WIDTH: 890px
-PROFILE BANNER: 890 x 280px
-FIND ME ONLINE: maximum 890px width; height follows its eight rows automatically.
--->
-
-<!-- ========================================================= -->
-<!-- 01. PROFILE BANNER — 890 x 280px                          -->
-<!-- Add your banner URL to src, then uncomment this image.    -->
-<!-- <img src="" alt="MD FAHIM MIA - Profile Banner" width="890" height="280"> -->
-
-<hr>
-
-<!-- ========================================================= -->
-<!-- 02. ABOUT ME                                               -->
-<h2 align="center">👋 About Me</h2>
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYi7yj7eUEDjzcamPmV_nfcA0VBuQ7Fd8lHpV1OiBoTLhAwyfrroJVOo7V4uAQ1y09JsFF6mEy9-6Czt-mSMtAziV2fwr6wmBqoNpgkgFPlzh9T77ecsTXL6BOY_1H14lkWeIf1pQZMWYLMryg7_u1ZzLRO0AYG0eCFRltREBcfAdyjUdsOkZpYUeEPGM/s1600/profile%20banner%20png.png" alt="MD FAHIM MIA - Profile Banner" width="890" height="280"> -->
+<hr>                                             
+<h1 align="center">👋 About Me</h1>
 
 <p>Hi! I'm <strong>MD FAHIM MIA</strong>, a Computer Science and Technology (CST) student at Rangpur Ideal Institute of Technology (RIIT), Rangpur, Bangladesh.</p>
 
@@ -154,10 +131,170 @@ FIND ME ONLINE: maximum 890px width; height follows its eight rows automatically
 <p align="center">I also work on Linked Lists, Stacks &amp; Queues, Trees &amp; Graphs, Recursion &amp; Backtracking, Greedy Algorithms, and Dynamic Programming.</p>
 
 <h3 align="center">LeetCode Profile Statistics</h3>
-<!-- Add your original LeetCode statistics image URL in src, then uncomment. -->
-<!-- <img src="" alt="Original LeetCode Profile Statistics" width="890"> -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>LeetCode Profile Statistics</title>
 
-<hr>
+<style>
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #171717;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.leetcode-card {
+    width: 100%;
+    max-width: 845px;
+    margin: 0 auto;
+    aspect-ratio: 845 / 330;
+    overflow: hidden;
+}
+
+.leetcode-card svg {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+</style>
+</head>
+
+<body>
+
+<div class="leetcode-card">
+
+<svg viewBox="0 0 845 330"
+     xmlns="http://www.w3.org/2000/svg"
+     role="img"
+     aria-label="LeetCode statistics: 1 solved, 0 attempting, Easy 0 of 976, Medium 1 of 2148, Hard 0 of 990">
+
+<defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+        <stop offset="0%" stop-color="#292929"/>
+        <stop offset="100%" stop-color="#202020"/>
+    </linearGradient>
+</defs>
+
+<!-- Main Background -->
+<rect x="7" y="7" width="831" height="316"
+      rx="19"
+      fill="url(#background)"
+      stroke="#363638"
+      stroke-width="2"/>
+
+<!-- Progress Gauge -->
+<g fill="none" stroke-width="7" stroke-linecap="round">
+
+    <!-- Yellow -->
+    <path d="M 253 66 A 115 115 0 0 1 417 66"
+          stroke="#A98B25"/>
+
+    <!-- Cyan -->
+    <path d="M 226 108 A 115 115 0 0 0 261 235"
+          stroke="#28666A"/>
+
+    <!-- Red -->
+    <path d="M 444 108 A 115 115 0 0 1 409 235"
+          stroke="#713A3E"/>
+
+</g>
+
+<!-- Yellow Progress Indicator -->
+<circle cx="253" cy="66" r="3" fill="#FFD000"/>
+
+<!-- Center Statistics -->
+<g font-family="Arial, Helvetica, sans-serif">
+
+    <text x="286" y="158"
+          fill="#F5F5F5"
+          font-size="60"
+          font-weight="400">1</text>
+
+    <text x="326" y="158"
+          fill="#DADCE5"
+          font-size="33"
+          font-weight="400">/ 4114</text>
+
+    <!-- Solved Check -->
+    <path d="M 274 190 L 284 200 L 304 178"
+          fill="none"
+          stroke="#00C853"
+          stroke-width="5"
+          stroke-linecap="round"
+          stroke-linejoin="round"/>
+
+    <text x="314" y="201"
+          fill="#F3F3F3"
+          font-size="25">Solved</text>
+
+    <!-- Attempting -->
+    <text x="335" y="276"
+          text-anchor="middle"
+          fill="#A8A8AD"
+          font-size="17">0 Attempting</text>
+
+</g>
+
+<!-- Easy Card -->
+<rect x="596" y="35" width="210" height="76"
+      rx="14" fill="#303033"/>
+
+<text x="701" y="65"
+      text-anchor="middle"
+      fill="#00D9D9"
+      font-size="22"
+      font-weight="bold">Easy</text>
+
+<text x="701" y="96"
+      text-anchor="middle"
+      fill="#F4F4F4"
+      font-size="20"
+      font-weight="bold">0/976</text>
+
+<!-- Medium Card -->
+<rect x="596" y="126" width="210" height="76"
+      rx="14" fill="#303033"/>
+
+<text x="701" y="156"
+      text-anchor="middle"
+      fill="#FFBD00"
+      font-size="22"
+      font-weight="bold">Med.</text>
+
+<text x="701" y="187"
+      text-anchor="middle"
+      fill="#F4F4F4"
+      font-size="20"
+      font-weight="bold">1/2148</text>
+
+<!-- Hard Card -->
+<rect x="596" y="217" width="210" height="76"
+      rx="14" fill="#303033"/>
+
+<text x="701" y="247"
+      text-anchor="middle"
+      fill="#FF454B"
+      font-size="22"
+      font-weight="bold">Hard</text>
+
+<text x="701" y="278"
+      text-anchor="middle"
+      fill="#F4F4F4"
+      font-size="20"
+      font-weight="bold">0/990</text>
+
+</svg>
+</div>
+
+</body>
+</html>
 
 <!-- ========================================================= -->
 <!-- 06. CODEFORCES PROFILE VIEW                                -->
