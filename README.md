@@ -27,31 +27,31 @@
 <table width="100%" border="1" cellpadding="10" cellspacing="0">
   <thead>
     <tr>
-      <th width="50%" align="left">Platform</th>
-      <th width="50%" align="center">Profile Link</th>
+      <th width="570" align="left">Platform</th>
+      <th width="300" align="center">Profile Link</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td width="50%">
+      <td width="570">
         <img src="assets/leetcode-logo.png" alt="LeetCode logo" width="28" height="28" align="absmiddle">
         &nbsp;&nbsp;<strong>LeetCode</strong>
       </td>
-      <td width="50%" align="center"><a href="https://leetcode.com/u/faheemcodexpy/">View Profile</a></td>
+      <td width="300" align="center"><a href="https://leetcode.com/u/faheemcodexpy/">View Profile</a></td>
     </tr>
     <tr>
-      <td width="50%">
+      <td width="570">
         <img src="assets/codeforces-logo.png" alt="Codeforces logo" width="28" height="28" align="absmiddle">
         &nbsp;&nbsp;<strong>Codeforces</strong>
       </td>
-      <td width="50%" align="center"><a href="https://codeforces.com/profile/faheemcodexpy">View Profile</a></td>
+      <td width="300" align="center"><a href="https://codeforces.com/profile/faheemcodexpy">View Profile</a></td>
     </tr>
     <tr>
-      <td width="50%">
+      <td width="570">
         <img src="assets/codechef-logo.png" alt="CodeChef logo" width="28" height="28" align="absmiddle">
         &nbsp;&nbsp;<strong>CodeChef</strong>
       </td>
-      <td width="50%" align="center"><a href="https://www.codechef.com/users/faheemcodexpy">View Profile</a></td>
+      <td width="300" align="center"><a href="https://www.codechef.com/users/faheemcodexpy">View Profile</a></td>
     </tr>
   </tbody>
 </table>
