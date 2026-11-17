@@ -24,7 +24,11 @@
 <!-- 03. PROBLEM PRACTICE PLATFORMS                             -->
 <h2 align="center">💻 Problem Practice Platforms</h2>
 
-<table width="890" border="1" cellpadding="10" cellspacing="0" align="center">
+<table width="890" border="1" cellpadding="9" cellspacing="0" align="center">
+  <colgroup>
+  <col width="445">
+  <col width="445">
+</colgroup>
   <thead>
     <tr>
       <th width="50%" align="left">Platform</th>
