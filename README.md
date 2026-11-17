@@ -162,7 +162,7 @@
   <tbody>
     <tr>
       <td width="430" valign="top">
-        <h3>01 · Smart Expense Tracker  <img src="assets/expense-tracker-icon.png" alt="Expense Tracker" width="28" height="28" align="absmiddle"> </h3>
+        <h3>01 · Smart Expense Tracker &nbsp;&nbsp;&nbsp;  <img src="assets/expense-tracker-icon.png" alt="Expense Tracker" width="28" height="28" align="absmiddle"> </h3>
         <p><strong>Category:</strong> C++ Project</p>
         <p>A smart expense management application that helps users track daily expenses, organize spending categories, manage budgets, and generate expense summaries.</p>
         <p><strong>Technologies:</strong><br>C++ · OOP · STL · File Handling · Data Structures</p>
@@ -170,7 +170,7 @@
         <a href="YOUR_SMART_EXPENSE_TRACKER_REPOSITORY_URL"><img src="https://img.shields.io/badge/Repository-FFD84D?style=for-the-badge&amp;logo=github&amp;logoColor=black" alt="Repository"></a>
       </td>
       <td width="430" valign="top">
-        <h3>02 · Space Dodger Game   <img src="assets/space-dodger-icon.png" alt="Space Dodger" width="28" height="28" align="absmiddle"></h3>
+        <h3>02 · Space Dodger Game &nbsp;&nbsp;&nbsp;  <img src="assets/space-dodger-icon.png" alt="Space Dodger" width="28" height="28" align="absmiddle"></h3>
         <p><strong>Category:</strong> Python Project</p>
         <p>An entertaining 2D space game where players control a spaceship, dodge incoming obstacles, collect points, and try to beat their highest score.</p>
         <p><strong>Technologies:</strong><br>Python · Pygame</p>
@@ -180,7 +180,7 @@
     </tr>
     <tr>
       <td width="430" valign="top">
-        <h3>03 · Movie Review Sentiment Analyzer   <img src="assets/sentiment-analyzer-icon.png" alt="Sentiment Analyzer" width="28" height="28" align="absmiddle"></h3>
+        <h3>03 · Movie Review Sentiment Analyzer &nbsp;&nbsp;&nbsp;  <img src="assets/sentiment-analyzer-icon.png" alt="Sentiment Analyzer" width="28" height="28" align="absmiddle"></h3>
         <p><strong>Category:</strong> AI &amp; Machine Learning</p>
         <p>A beginner-friendly machine learning application that analyzes movie reviews and predicts whether the sentiment is Positive or Negative.</p>
         <p><strong>Technologies:</strong><br>Python · Pandas · NumPy · Scikit-learn · NLP</p>
@@ -188,7 +188,7 @@
         <a href="YOUR_MOVIE_SENTIMENT_ANALYZER_REPOSITORY_URL"><img src="https://img.shields.io/badge/Repository-FFD84D?style=for-the-badge&amp;logo=github&amp;logoColor=black" alt="Repository"></a>
       </td>
       <td width="430" valign="top">
-        <h3>04 · Personal Study Planner   <img src="assets/study-planner-icon.png" alt="Study Planner" width="28" height="28" align="absmiddle"></h3>
+        <h3>04 · Personal Study Planner &nbsp;&nbsp;&nbsp;  <img src="assets/study-planner-icon.png" alt="Study Planner" width="28" height="28" align="absmiddle"></h3>
         <p><strong>Category:</strong> Web Development</p>
         <p>A simple study management application that allows users to organize daily tasks, set deadlines, track progress, and manage completed activities.</p>
         <p><strong>Technologies:</strong><br>HTML · CSS · JavaScript · Local Storage</p>
